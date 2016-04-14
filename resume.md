@@ -2,9 +2,9 @@
 
 ## 团队管理 / Web 开发工程师
 
- + 手机：18621662191
- + 邮箱：[lovelvye@gmail.com](lovelvye@gmail.com)
- + Github：[lovelvye](https://github.com/lovelvye)
++ 手机：18621662191
++ 邮箱：[lovelvye@gmail.com](lovelvye@gmail.com)
++ Github：[lovelvye](https://github.com/lovelvye)
 
 ## 目标
 
